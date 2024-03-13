@@ -5,6 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Simple Calculator</title>
+
 <body bgcolor="white">
 	<form method="get" action="./CalcServlet">
 
@@ -17,7 +18,7 @@
 			<option value="sub">Sub</option>
 			<option value="mul">Mul</option>
 			<option value="div">Div</option>
-			<option value="bin">Bin</option>
+			<option value="inc">Inc</option>
 		</select> <br> <input type="submit" value="Go">
 	</form>
 </body>
